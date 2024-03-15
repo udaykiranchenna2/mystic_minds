@@ -30,7 +30,7 @@ function FeatureCard({ feature }: any) {
                                 borderRadius='1rem'
                                 duration={8000}
                                 borderClassName="bg-gradient-to-r from-orange-500 to-transparent via-orange-300"
-                                className='bg-white text-black border border-neutral-200 dark:border-slate-800 py-2 px-4 rounded-md hover:bg-orange-400 hover:text-white transition-colors duration-300 ease-in-out'
+                                className='bg-black text-white border border-neutral-200 dark:border-slate-800 py-2 px-4 rounded-md hover:bg-orange-400 hover:text-white transition-colors duration-300 ease-in-out'
                             >
                                 Know More
                             </Button>
